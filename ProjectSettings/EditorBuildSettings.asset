@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Highway Racer/Scenes/MainMenu.unity
+    guid: 891bd0ce9a4102742b289f58c8753db6
+  - enabled: 1
+    path: Assets/Highway Racer/Scenes/CutScene.unity
+    guid: 22c4a292b35b649ae8fb0c64ed4d5cc5
+  - enabled: 1
+    path: Assets/Highway Racer/Scenes/Objective.unity
+    guid: 8114010a5fa0c4dda9794b6b2f69d47a
+  - enabled: 1
+    path: Assets/Highway Racer/Scenes/HighwayNight.unity
+    guid: 21e8f7e0027e0244a955a195b6bf757e
+  m_configObjects: {}
